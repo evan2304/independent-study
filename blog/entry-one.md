@@ -17,7 +17,7 @@ Something I have already come to appreciate about EarSketch is the fact that a t
 
 I also learned that what distinguishes EarSketch from other “music making programs” is the fact that because you code the music, it’s much quicker to combine several thousand clips. Also, you can use algorithms to add randomness to the sound. If you add a sound in many other programs, every time you play that sound it will be the exact same, however, in EarSketch you can make the same audio clip sound a little different every time it is played as if it were performed by humans.
 
-### What now?
+### What now? 👀
 During this next week, I want to think about what goals and structures I am going to set for myself during Independent Study. I would like to enjoy the freedom of roaming and tinkering, but I believe it would also be helpful for me to have some goals that I set for myself and achieve.
 
 ### Takeaways. 👩🏽‍💻
