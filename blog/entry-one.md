@@ -27,4 +27,4 @@ My most significant takeaway was that everything becomes a lot easier if you are
 [A-Frame](https://aframe.io/docs/0.9.0/introduction/) <br>
 [EarSketch](http://earsketch.gatech.edu/landing/#/) <br>
 <br>
-[Back to Content](../README.md)
+[Back to Content](../README.md) | [Next](entry-two.md)
