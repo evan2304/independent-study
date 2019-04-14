@@ -53,7 +53,7 @@ First things first, get to know the various areas of the workspace.
 
 After creating an account, I clicked the `+` in the code editor to create a new script. I have decided to learn python, so I named the file test.py and began coding. 
 
-1. Add `fitMedia()` between `init()` and ``setTempo() in the setup section.
+1. Add `fitMedia()` between `init()` and `setTempo()` in the setup section.
 2. Keep cursor between the parentheses of `fitMedia()` and pick a clip to insert in the Sound Browser by clicking the paste button. E.g. `fitMedia(RD_TRAP_BASSDROPS_1)`
 3. The next step is to determine where the clip should be placed (its track number) and how long it should last (start and end point). Easy way to remember: `fitMedia(clipName, trackNumber, startMeasure, endMeasure)`
 4. Press run and play!
@@ -66,7 +66,7 @@ This error message luckily was not hard to decipher, so I could immediately tell
 ## What I created. 👣
 
 I played aroud a bit with different sounds and plugged in different arguments for a trial run. Click
-[here](https://earsketch.gatech.edu/earsketch2/#?sharing=xTMn6_3HXfCf45b8jKesFg) to hear my first attempt. Click Run and Play. 
+[here](https://earsketch.gatech.edu/earsketch2/#?sharing=FbJOmjgfa8lLAQdun3yPng) to hear my first attempt. Click Run and Play. 
 
 ## Takeaways. 👩🏽‍💻
 **Slow and steady wins the race.** After spending a long time reading through instructions, and basic set up (which was not all that intriguing), I was starting to feel impatient. I tried jumping ahead but realized that I had skipped too many steps. I had to backtrack and make the conscious effort of being patient, so I could eventually get to a place where I could tinker and create my own sounds.
