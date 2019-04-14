@@ -2,7 +2,7 @@
 
 ### A little more learning ...✍🏽
 
-At the beginning of this week I felt like I had learned a lot the past week, but still hadn’t solidified all of these concepts. So I decided it would be a good idea to go back and take some of the quizzes at the end of each chapter, so see how much information I had in fact retained.
+At the beginning of this week I felt like I had learned a lot the past week, but still hadn’t solidified all of these concepts. So I decided it would be a good idea to go back and take some of the quizzes at the end of each chapter, to see how much information I had in fact retained.
  
 #### ... about music 🎤
 **Beats:** the most basic unit of measurement in music <br>
@@ -22,9 +22,9 @@ At the beginning of this week I felt like I had learned a lot the past week, but
 **effect parameter:** the setting of the effect. E.g. if the effect type is VOLUME the effect parameter could be GAIN. (essentially increasing the volume.)<br>
 **value:** the value the parameter should increase or decrease by.<br> 
 
-**Sometimes you don't want to apply the effect to the whole track!** If that is the case, you can uses envelopes!
+**Sometimes you don't want to apply the effect to the whole track!** If that is the case, you can use envelopes!
 
-**envelopes:** use value-time pairs to pinpoint where the effects will differ from the other parts of the track. e.g. (-50, 1, -5, 6) -> a point is placed at measure 1 at -50 decibels and another point is placed at measure 6 at -5 decibels. A smooth transition then happens between these points. 
+**envelopes:** use value-time pairs to pinpoint where the effects will differ from the other parts of the track. e.g. (-50, 1, -5, 6) **->** a point is placed at measure 1 at -50 decibels and another point is placed at measure 6 at -5 decibels. A smooth transition then happens between these points. 
 
 *NOTE:* dB value can be between -60 and +12
 
