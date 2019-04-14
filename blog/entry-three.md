@@ -28,7 +28,7 @@ At the beginning of this week I felt like I had learned a lot the past week, but
 
 *NOTE:* dB value can be between -60 and +12
 
-If you choose to use an envelope, this is what the syntax would look like: `setEffect(track,effect type, effect parameter, value, envelope start value, envelope start measure, envelope end value, envelope end measure)`
+If you choose to use an envelope, this is what the syntax would look like: `setEffect(track, effect type, effect parameter, value, envelope start value, envelope start measure, envelope end value, envelope end measure)`
 
 [Here is an example where I used an envelope!](https://earsketch.gatech.edu/earsketch2/#?sharing=FbJOmjgfa8lLAQdun3yPng
 ) Click Run and then Play. 
