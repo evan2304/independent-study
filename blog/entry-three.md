@@ -19,12 +19,12 @@ At the beginning of this week I felt like I had learned a lot the past week, but
 
 **track:** you would type the number of the track you want it to apply to (number from 1-5) <br>
 **effect type:** one of the effects listed in the API browser.<br>
-**effect parameter:** the setting of the effect. E.g. if the effect type is VOLUME the effect parameter could be GAIN. (essentially increasing the volume.<br>
+**effect parameter:** the setting of the effect. E.g. if the effect type is VOLUME the effect parameter could be GAIN. (essentially increasing the volume.)<br>
 **value:** the value the parameter should increase or decrease by.<br> 
 
 **Sometimes you don't want to apply the effect to the whole track!** If that is the case, you can uses envelopes!
 
-**envelopes:** use value-time pairs to pinpoint where the effects will differ from the other parts of the track. e.g. (-50, 1, -5, 6) -> a point is places at measure 1 at -50 decibels and another point is places at measure 6 at -5 decibels. A smooth transition then happens between these points. 
+**envelopes:** use value-time pairs to pinpoint where the effects will differ from the other parts of the track. e.g. (-50, 1, -5, 6) -> a point is placed at measure 1 at -50 decibels and another point is placed at measure 6 at -5 decibels. A smooth transition then happens between these points. 
 
 *NOTE:* dB value can be between -60 and +12
 
@@ -34,7 +34,7 @@ If you choose to use an envelope, this is what the syntax would look like: `setE
 ) Click Run and then Play. 
 ### Takeaways. 👌🏽
 
-**Test yourself!** When you are learning so many new things at once, especially if it involves a lot of new vocabulary, it is helpful to spot check yourself! See how much you remember of the things you learned earlier. Luckily on the EarSketch platform, there are short quizzes at the end of each chapter. During this week, and moving forward, I went back and did some of those quizzes again.
+**Test yourself!** When you are learning so many new things at once, especially if it involves a lot of new vocabulary, it is helpful to spot check yourself! See how much you remember of the things you learned earlier. Luckily on the EarSketch platform, there are short quizzes at the end of each chapter. During this week I went back and did some of those quizzes again.
 
 
 [Back to Content](../README.md) 
