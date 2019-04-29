@@ -40,5 +40,6 @@ If you choose to use an envelope, this is what the syntax would look like: `setE
 [Back to Content](../README.md) 
 |
 [Back to Entry Two](entry-two.md)
-
+|
+[Next](entry-four.md)
 
