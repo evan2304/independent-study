@@ -23,11 +23,13 @@ The primary purpose of a transition in music is to make the listener aware that 
 
 
 ### Takeaways. 💻
-**Keep learning consistently!** Keep learning consistently! It’s a lot easier to keep learning a little every day than to learn in larger chunks that are more spread out. It makes it more straightforward to keep track of all that you are learning because you won’t have to refresh your memory.
+**Keep learning consistently!** It’s a lot easier to keep learning a little every day than to learn in larger chunks that are more spread out. It makes it more straightforward to keep track of all that you are learning because you won’t have to refresh your memory.
 
 [Back to Content](../README.md) 
 |
 [Back to Entry Three](entry-three.md)
+|
+[Next](entry-five.md)
 
 
 
