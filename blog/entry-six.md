@@ -39,3 +39,10 @@ Now that I have learned how to make a beat, how do I keep it going without copyi
 ### Takeaways. ✍🏽
 
 **Apply what you learn!** I think it is great to apply what you learn in the classroom, to "real world cases." It helps put into context why you are learning and reveals the deeper nuances of every subject. "In the real world" the case may not be as straightforward as they are when you study the topic, and that just results in more learning!
+
+[Back to Content](../README.md) 
+|
+[Back to Entry Five](entry-five.md)
+|
+[Next](entry-seven.md)
+
