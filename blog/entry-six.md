@@ -1,4 +1,4 @@
-# Blog 6: makeBeat( ) and Loops
+# Blog Entry 6: makeBeat( ) and Loops
 This week I continued learning more technical aspects of making music. As I have learned more and more about music, I have started to apply what I learn when I am listening to music. It's so cool to me that I can break down some songs that I listen to because I can identify some of the transitions etc. that are used. 
 
 ### General information about computers... 💻
